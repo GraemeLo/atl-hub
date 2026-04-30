@@ -18,13 +18,9 @@ handling payments, serverless Postgres for managing databases, and styled with T
 
 👉 **Recent Rides**: View a list of recent rides at a glance.
 
-👉 **Google Places Autocomplete**: Search any place on Earth with autocomplete suggestions.
-
 👉 **Find Rides**: Search for rides by entering 'From' and 'To' locations.
 
-👉 **Select Rides from Map**: Choose available cars near your location from the map.
-
-👉 **Confirm Ride with Detailed Information**: View complete ride details, including time and fare price.
+👉 **Select Rides from Map**: Choose available rides near your location from the map.
 
 👉 **Profile**: Manage account details in the profile screen.
 
