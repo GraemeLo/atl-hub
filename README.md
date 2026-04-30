@@ -1,8 +1,7 @@
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
+2. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🖇️ [Links](#links)
@@ -13,17 +12,6 @@
 
 Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
 handling payments, serverless Postgres for managing databases, and styled with TailwindCSS.
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- React Native
-- Expo
-- Stripe
-- PostgreSQL
-- Google Maps
-- zustand
-- Clerk
-- Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
 
@@ -47,17 +35,11 @@ handling payments, serverless Postgres for managing databases, and styled with T
 
 👉 **Confirm Ride with Detailed Information**: View complete ride details, including time and fare price.
 
-👉 **Pay for Ride Using Stripe**: Make payments using multiple methods like cards and others.
-
-👉 **Create Rides After Successful Payment**: Book a ride after confirming payment.
-
 👉 **Profile**: Manage account details in the profile screen.
 
 👉 **History**: Review all rides booked so far.
 
 👉 **Responsive on Android and iOS**: Optimized for both Android and iOS devices.
-
-and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
