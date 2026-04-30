@@ -14,7 +14,7 @@ handling payments, serverless Postgres for managing databases, and styled with T
 
 👉 **User Onboarding**: Seamless registration and setup process.
 
-👉 **Home Screen - Ride Locations on Map**: Real-time location tracking with markers on a map.
+👉 **Home Screen - Map**: Real-time location tracking with markers on a map.
 
 👉 **Recent Rides**: View a list of recent rides at a glance.
 
