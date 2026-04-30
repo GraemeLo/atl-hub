@@ -7,7 +7,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
+This transit app is built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
 handling payments, serverless Postgres for managing databases, and styled with TailwindCSS.
 
 ## <a name="features">🔋 Features</a>
