@@ -83,14 +83,11 @@ DATABASE_URL=
 EXPO_PUBLIC_SERVER_URL=https://uber.dev/
 
 EXPO_PUBLIC_GEOAPIFY_API_KEY=
-
-EXPO_PUBLIC_STRIPE_PUBLISHABLE_KEY=
-STRIPE_SECRET_KEY=
 ```
 
-Replace the placeholder values with your actual Clerk, Stripe, NeonDB, Google Maps, andgeoapify credentials. You can
+Replace the placeholder values with your actual Clerk, NeonDB, Google Maps, andgeoapify credentials. You can
 obtain these credentials by signing up on
-the [Clerk](https://clerk.com/), [Stripe](https://stripe.com/in), [NeonDB](https://neon.tech/), [Google Maps](https://console.cloud.google.com/)
+the [Clerk](https://clerk.com/), [NeonDB](https://neon.tech/), [Google Maps](https://console.cloud.google.com/)
 and [geoapify](https://www.geoapify.com/) websites respectively.
 
 **Running the Project**
